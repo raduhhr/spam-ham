@@ -1,7 +1,7 @@
 # spam-ham
 
 This project applies **4 machine learning classifiers** to the [Spambase dataset](https://archive.ics.uci.edu/dataset/94/spambase) to detect spam vs. non-spam emails.  
-It was developed in a **Jupyter notebook** using Python and scikit-learn, and includes full evaluation, comparisons, visualizations, and a short PDF presentation.
+It was developed in a **Jupyter notebook** using Python and scikit-learn, and includes full evaluation, comparisons, visualizations, and a short PDF presentation (inside spam-ham folder).
 
 ---
 
